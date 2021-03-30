@@ -15,3 +15,6 @@
 -round robin algorithm
 - scan disk algorithm
 -shortest job first 
+
+
+## To run the program use, make sure jdk is installed and use any ide of your choice
