@@ -17,4 +17,7 @@
 -shortest job first 
 
 
-## To run the program use, make sure jdk is installed and use any ide of your choice
+## This are java programs and to run them make sure of the following:
+- install jdk.
+- install any ide of your choice and run from the main.
+- or run with appropriate method of your choice.
